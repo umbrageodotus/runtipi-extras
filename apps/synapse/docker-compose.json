@@ -4,7 +4,13 @@
       "name": "synapse",
       "image": "matrixdotorg/synapse:v1.131.0",
       "isMain": true,
-      "internalPort": 8008
+      "internalPort": 8008,
+      "volumes": [
+      	{
+      		"hostPath": "${APP_DATA_DIR}/data/synapse",
+            "containerPath": "/data"
+        }
+      ],
     }
   ]
 }
