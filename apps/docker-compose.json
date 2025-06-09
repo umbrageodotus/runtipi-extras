@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "name": "synapse",
+      "image": "matrixdotorg/synapse:v1.131.0",
+      "isMain": true,
+      "internalPort": 8008
+    }
+  ]
+}
