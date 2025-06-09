@@ -10,7 +10,7 @@
       		"hostPath": "${APP_DATA_DIR}/data/synapse",
             "containerPath": "/data"
         }
-      ],
+      ]
     }
   ]
 }
