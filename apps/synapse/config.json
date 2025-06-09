@@ -6,7 +6,7 @@
   "dynamic_config": true,
   "id": "synapse",
   "description": "Reference implementation of a Matrix homeserver.",
-  "tipi_version": 4,
+  "tipi_version": 1,
   "version": "1.131.0",
   "categories": ["utilities"],
   "short_desc": "Reference implementation of a Matrix homeserver.",
@@ -16,5 +16,6 @@
   "form_fields": [],
   "supported_architectures": ["arm64", "amd64"],
   "created_at": 1749503414084,
-  "updated_at": 1749503414084
+  "updated_at": 1749503414084,
+  "no_gui": true
 }
