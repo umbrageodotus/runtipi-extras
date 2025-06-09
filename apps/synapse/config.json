@@ -8,7 +8,7 @@
   "description": "Reference implementation of a Matrix homeserver.",
   "tipi_version": 1,
   "version": "1.131.0",
-  "categories": ["utilities"],
+  "categories": ["social"],
   "short_desc": "Reference implementation of a Matrix homeserver.",
   "author": "matrixdotorg",
   "source": "https://github.com/element-hq/synapse",
